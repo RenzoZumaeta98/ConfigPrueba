@@ -1,6 +1,6 @@
 spring:
   application:
-    name: recommendationPruebaervice
+    name: recommendationPrueba-service
 
 # Configuración de Eureka
 eureka:
