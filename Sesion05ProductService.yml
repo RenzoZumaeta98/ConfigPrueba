@@ -1,9 +1,9 @@
 spring:
   application:
-    name: Sesion05EurekaClient
+    name: Sesion05ProductService
 
 server:
-  port: 8084
+  port: 8085
 # Configuración de Eureka
 eureka:
   instance:
